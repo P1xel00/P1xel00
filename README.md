@@ -19,7 +19,7 @@ I am Salesforce Developer from Poland.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://www.salesforce.com/news/wp-content/uploads/sites/3/2020/08/SFDO-Logo-2020-RGB-Vert-FullColor.png" alt="salesforce" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/salesforce-icon-1024x717-zsvxc6sf.png" alt="salesforce" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
